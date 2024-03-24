@@ -1,0 +1,3 @@
+ls -l --time=ctime
+ls -l --time=birth
+stat [FILE]
