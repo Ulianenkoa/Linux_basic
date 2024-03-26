@@ -1,0 +1,2 @@
+PS1='[\d]\u@\h'
+[Sat Mar 16]max@ws01
