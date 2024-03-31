@@ -1,0 +1,2 @@
+1. sudo cat /etc/apt/sources.list
+2. sudo add-apt-repository --remove deb http://security.ubuntu.com/ubuntu jammy-security universe
